@@ -1,7 +1,7 @@
 body {
 	background-image: url("images/background.png");
 	position: absolute;
-	background-size: 1400px 670px;
+	background-size: 100vw 100vh;
 }
 
 .top {
@@ -19,8 +19,8 @@ body {
   padding-left: 9px; 
   padding-top: 6px; 
   padding-bottom: 6px; 
-  width: 1336px;
-  margin: auto; 
+  width: 98vw;
+  margin: auto;
 } 
 
 
